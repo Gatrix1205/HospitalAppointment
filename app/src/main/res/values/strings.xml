@@ -42,4 +42,8 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="carousel">carousel</string>
+    <string name="intro_women">intro_women</string>
+    <string name="exceptional_care_close_to_you">Exceptional care Close to You</string>
+    <string name="get_started">Get Started</string>
 </resources>
